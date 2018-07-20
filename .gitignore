@@ -105,3 +105,14 @@ venv.bak/
 
 #db
 .db
+accountNaver.json
+*.db
+app contest.jpg
+binary.dat
+div.html
+hello.txt
+html_example1.html
+moon.pickle
+opengraph-icon.png
+test.csv
+test.json
