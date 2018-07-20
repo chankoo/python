@@ -1,0 +1,6 @@
+install.packages("Rfacebook")
+library(Rfacebook)
+Token_Got <- "EAACEdEose0cBADKWSgOxjOQvT9Oa74kd4r8i6L6XNffeA641OaINpKx8ICIZCGsFqWU7uzRHfPCZBqpLZB7rrZCzLoKE9QKkG3SAZB9PCQ3ZBZCey1JfgCATD8uihIa7pYPssrP2sWvriMiGimzrIqL2jZB4slyQZCBcSVZB4LFZCP533uVQPEPTGGRfV4M6RxKiZCheXZB7NBGTJBQZDZD"
+getUsers("me", token=Token_Got)
+fb_data<- getPage(page="SKKUBamboo", token= Token_Got , n=200, feed = TRUE)
+fb_data
