@@ -143,3 +143,10 @@ docs/news_docs0.txt
 docs/news_docs10.txt
 docs/news_docs11.txt
 docs/news_docs1.txt
+data/t10k-images-idx3-ubyte.gz
+data/t10k-labels-idx1-ubyte.gz
+data/train-images-idx3-ubyte.gz
+data/train-labels-idx1-ubyte.gz
+processed/test.pt
+processed/training.pt
+some_array.npy
