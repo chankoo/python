@@ -150,3 +150,4 @@ data/train-labels-idx1-ubyte.gz
 processed/test.pt
 processed/training.pt
 some_array.npy
+*.png
