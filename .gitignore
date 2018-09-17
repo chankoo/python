@@ -151,3 +151,5 @@ processed/test.pt
 processed/training.pt
 some_array.npy
 *.png
+data/input_RNN.txt
+data/mnist.pkl
